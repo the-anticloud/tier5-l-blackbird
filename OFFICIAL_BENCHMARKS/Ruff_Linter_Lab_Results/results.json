@@ -1,0 +1,11 @@
+{
+  "benchmark": "Ruff_Linter_Lab_Results",
+  "project": "L_BLACKBIRD",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://docs.astral.sh/ruff/",
+  "results": {
+    "framework": "Ruff",
+    "source": "https://docs.astral.sh/ruff/",
+    "status": "SKIP"
+  }
+}
